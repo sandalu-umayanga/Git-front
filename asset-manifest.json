@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Git-front/static/css/main.cde1a2d9.css",
+    "main.js": "/Git-front/static/js/main.806b2f79.js",
+    "index.html": "/Git-front/index.html",
+    "main.cde1a2d9.css.map": "/Git-front/static/css/main.cde1a2d9.css.map",
+    "main.806b2f79.js.map": "/Git-front/static/js/main.806b2f79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde1a2d9.css",
+    "static/js/main.806b2f79.js"
+  ]
+}
