@@ -20,7 +20,7 @@ export default function Navigation() {
       <ul className={`nav-list ${isDropdownOpen ? "show" : ""}`}>
         <div className="nav-list-part1">
           <li>
-            <Link to="/" onClick={toggleDropdown}>Home</Link>
+            <Link to="Git-front/" onClick={toggleDropdown}>Home</Link>
           </li>
           <li>
             <Link to="/about" onClick={toggleDropdown}>About</Link>
