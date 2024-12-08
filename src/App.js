@@ -13,7 +13,7 @@ function App() {
         </div>
         <div className="main-container">
           <Routes>
-            <Route path="" element={<Home />} />
+            <Route path="/" element={<Home />} />
           </Routes>
         </div>
         <div className="main-footer-app">
