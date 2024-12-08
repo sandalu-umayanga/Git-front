@@ -1,0 +1,18 @@
+.home-container {
+    height: calc(100vh - var(--nav-height, 60px)); /* Adjusts for navbar */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    overflow: hidden; /* Ensures no extra scrollbars */
+    padding:20px;   
+    background-color: #2b2b2b !important;
+}
+
+.home-content {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+}
+
