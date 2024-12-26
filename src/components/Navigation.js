@@ -32,7 +32,7 @@ export default function Navigation() {
         <div className="nav-list-part2">
           <li>
             <Link to="/login" onClick={toggleDropdown}>
-              <FontAwesomeIcon icon={faUser} /> Staff Login
+              <FontAwesomeIcon icon={faUser} />Login
             </Link>
           </li>
         </div>
