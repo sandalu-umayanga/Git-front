@@ -20,7 +20,7 @@ export default function Navigation() {
       <ul className={`nav-list ${isDropdownOpen ? "show" : ""}`}>
         <div className="nav-list-part1">
           <li>
-            <Link to="Git-front/" onClick={toggleDropdown}>Home</Link>
+            <Link to="/" onClick={toggleDropdown}>Home</Link>
           </li>
           <li>
             <Link to="/about" onClick={toggleDropdown}>About</Link>
@@ -32,7 +32,7 @@ export default function Navigation() {
         <div className="nav-list-part2">
           <li>
             <Link to="/login" onClick={toggleDropdown}>
-              <FontAwesomeIcon icon={faUser} /> Staff Login
+              <FontAwesomeIcon icon={faUser} /> Admin Login
             </Link>
           </li>
         </div>

@@ -20,8 +20,11 @@ export default function Home() {
             }}
         >
             <div className="home-content">
-                <h1>Welcome to Our Hospital</h1>
-                <p>Your health is our priority. We provide the best care for you and your loved ones.</p>
+                <h1>Welcome to GIS
+
+
+                </h1>
+                <p>Your knowledge of GIS. We provide the best care for you and your loved ones.</p>
             </div>
         </div>
     );
